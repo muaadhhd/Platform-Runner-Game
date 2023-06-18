@@ -1,0 +1,17 @@
+html{
+    margin: 0;
+    background: yellow;
+}
+
+body{
+    margin: 0;
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas{
+    /* background-color: turquoise; */
+    display: flex;
+}
