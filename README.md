@@ -1,6 +1,4 @@
 # Platform-Runner-Game
-
-<<<<<<< HEAD
 =======
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
@@ -16,4 +14,3 @@
 
 ### 3. Play
 - Run Live Server and enjoy!
->>>>>>> 8eb81ba (Update)
